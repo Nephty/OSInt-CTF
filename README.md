@@ -16,7 +16,7 @@ Unfortunately, our only track is a leaked database : https://transfer.sh/UEM5iA/
 ___
 ## Hints
 If you're stuck at some point, you can ask for the help of a colleague.
-Simply go to [his office](www.github.com/Nephty/OSInt-CTF/helpful-colleague).
+Simply go to [his office](https://github.com/Nephty/OSInt-CTF/tree/main/helpful-colleague).
 ___
 
 
@@ -36,4 +36,4 @@ Malheureusement, notre seule piste est une base de données qui a fuité : https
 ___
 ## Indices
 Si vous vous retrouvez bloqué à un moment, vous pouvez demander l'aide d'un collègue.
-Il vous suffit d'aller dans [son bureau](www.github.com/Nephty/OSInt-CTF/helpful-colleague).
+Il vous suffit d'aller dans [son bureau](https://github.com/Nephty/OSInt-CTF/tree/main/helpful-colleague).
