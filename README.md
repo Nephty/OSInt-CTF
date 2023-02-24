@@ -12,7 +12,7 @@ What we know about him :
 3. His brother uses twitter but we do not know his username
 4. If you need a Twitter account to bypass Twitter's log in requests, you can ask a CPUMons member (please don't ruin the fun for others :wink:).
 
-Unfortunately, our only track is a leaked database : https://transfer.sh/UEM5iA/10000\_leaked\_twitter\_accounts.txt
+Unfortunately, our only track is a leaked database : https://transfer.sh/UEM5iA/10000_leaked_twitter_accounts.txt
 ___
 ## Hints
 If you're stuck at some point, you can ask for the help of a colleague.
@@ -32,7 +32,7 @@ Ce que l'on sait sur lui :
 3. Son frère utilise twitter mais on ne connait pas son nom d'utilisateur
 4. Si vous avez besoin d'un compte twitter pour passer outre les demandes de connexion, vous pouvez demander à un membre de CPUMons (ne gâchez pas l'amusement des autres :wink:).
 
-Malheureusement, notre seule piste est une base de données qui a fuité : https://transfer.sh/UEM5iA/10000\_leaked\_twitter\_accounts.txt
+Malheureusement, notre seule piste est une base de données qui a fuité : https://transfer.sh/UEM5iA/10000_leaked_twitter_accounts.txt
 ___
 ## Indices
 Si vous vous retrouvez bloqué à un moment, vous pouvez demander l'aide d'un collègue.
